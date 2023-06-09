@@ -1,0 +1,17 @@
+{
+	"name": "Пощечина",
+	"description": "Дать обидчику по щеке.",
+	"usage": "other",
+	"category": "Miscellaneous",
+	"distance_allowed": 0,
+	"message": [
+		"%USER% дает пощечину %TARGET%."
+	],
+	"sound_use": 0,
+	"sound_possible": [
+	],
+	"sound_range": 7,
+	"interaction_requires": [
+		"self_hand"
+	]
+}

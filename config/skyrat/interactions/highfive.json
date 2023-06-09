@@ -1,0 +1,18 @@
+{
+	"name": "Дать пять",
+	"description": "Давай пятюню!",
+	"usage": "other",
+	"category": "Miscellaneous",
+	"distance_allowed": 0,
+	"message": [
+		"%USER% даёт пять %TARGET%!"
+	],
+	"sound_use": 1,
+	"sound_possible": [
+	],
+	"sound_range": 7,
+	"interaction_requires": [
+		"self_hand",
+		"target_hand"
+	]
+}

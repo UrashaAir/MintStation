@@ -1,0 +1,17 @@
+{
+	"name": "Поманить",
+	"description": "Помани кого-то к себе.",
+	"usage": "other",
+	"category": "Miscellaneous",
+	"distance_allowed": 1,
+	"message": [
+		"%USER% зовет %TARGET% рукой к себе."
+	],
+	"sound_use": 0,
+	"sound_possible": [
+	],
+	"sound_range": 7,
+	"interaction_requires": [
+		"self_hand"
+	]
+}

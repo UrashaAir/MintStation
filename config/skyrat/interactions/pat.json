@@ -1,0 +1,17 @@
+{
+	"name": "Погладить",
+	"description": "Погладить по плечу, может быть, так собеседнику станет лучше?",
+	"usage": "other",
+	"category": "Miscellaneous",
+	"distance_allowed": 0,
+	"message": [
+		"%USER% гладит %TARGET% по плечу."
+	],
+	"sound_use": 0,
+	"sound_possible": [
+	],
+	"sound_range": 7,
+	"interaction_requires": [
+		"self_hand"
+	]
+}
